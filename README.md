@@ -16,7 +16,7 @@
 ## 安装
 
 1. 安装支持用户脚本的浏览器扩展，例如 [Tampermonkey](https://www.tampermonkey.net/)。
-2. 安装本脚本。
+2. [安装](https://greasyfork.org/zh-CN/scripts/589224-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A8%E6%80%81%E9%A1%B5%E5%B8%83%E5%B1%80%E4%BC%98%E5%8C%96)本脚本。
 3. 打开 [哔哩哔哩动态页](https://t.bilibili.com/)，脚本会自动生效。
 
 
